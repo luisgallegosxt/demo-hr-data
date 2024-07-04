@@ -1,0 +1,14 @@
+.env
+.env.*
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+.vscode/
+.idea/
+__pycache__/
+.DS_Store
+dist/
+build/
+*.egg-info/
