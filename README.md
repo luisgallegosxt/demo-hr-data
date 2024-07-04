@@ -71,6 +71,7 @@ We execute the resulting sql script and then we are ready to read the csv and ta
 
 ## 2. RestAPI
 ![rest-api](/resources/restapi.png)
+![rest-api-screenshopt](/resources/restapi_screenshot.png)
 For this example we use the following tools:
 - Postgres database in Docker container (AWS ec2)
 - FastAPI for the creation of the RestAPI
